@@ -1,10 +1,3 @@
-//LinkedList.cpp
-
-// Note: This implementation of LinkedList is based on 
-// Chapter 4 of Bruno R. Preiss's Textbook: 
-// "Data Structures and Algorithms with Object-Oriented Design Patterns
-//    in C++"
-
 #include <cstdlib>
 #include <cassert>
 #include "LinkedList.h"
